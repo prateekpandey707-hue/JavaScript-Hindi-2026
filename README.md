@@ -1,2 +1,2 @@
-# JavaScript-Hindi-2026
+# JavaScrip-2026
 Learning JavaScript 
